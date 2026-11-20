@@ -1,0 +1,8 @@
+streamlit
+pandas
+pymupdf
+openpyxl
+plotly
+pydantic
+pytest
+reportlab
